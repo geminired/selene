@@ -1,0 +1,37 @@
+h2, h3
+{
+  font-family: 'Aldrich', sans-serif;
+}
+.row h3
+{
+  font-size:20px;
+}
+.row img
+{
+  margin:10px;
+}
+p
+{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.gallery
+{
+  background-color: #2d3436;
+  background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+  color:white;
+}
+
+.learn
+{
+  background-image:url("lunar.jpg");
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+footer
+{
+  background-color:black;
+  color:white;
+  height:200px;
+}
